@@ -87,7 +87,7 @@ Nếu có user đăng nhập, key sẽ được gắn theo email.
 
 ---
 
-## 🛠 Công Nghệ Sử Dụng
+##  Công Nghệ Sử Dụng
 
 - HTML5
 - CSS3
